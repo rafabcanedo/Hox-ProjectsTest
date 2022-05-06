@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+        {
+         "id": 1,
+         "email": "rafacanedocontato@gmail.com",
+         "senha": 12345
+        },
+        {
+            "id": 2,
+            "email": "rafacanedocontato.sp@gmail.com",
+            "senha": 123
+        }
+    ]
+}

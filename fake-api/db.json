@@ -1,0 +1,180 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Arroz",
+      "dataFabricacao": "02/05/2022",
+      "prodPerecivel": true,
+      "dataValidade": "10/08/2022",
+      "preco": 10.5
+    },
+    {
+      "nome": "Arroz",
+      "dataFabricacao": "{{02/05/2022}}",
+      "prodPerecivel": true,
+      "dataValidade": "{{10/08/2022}}",
+      "preco": 10.5,
+      "id": 2
+    },
+    {
+      "nome": "Feijao",
+      "dataFabricacao": "18/02/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "20/06/2022",
+      "preco": 9,
+      "id": 3
+    },
+    {
+      "nome": "Acai",
+      "dataFabricacao": "08/03/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "18/08/2022",
+      "preco": 11.5,
+      "id": 4
+    },
+    {
+      "nome": "Macarrao",
+      "dataFabricacao": "22/04/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "18/10/2022",
+      "preco": 5,
+      "id": 5
+    },
+    {
+      "nome": "Nescau",
+      "dataFabricacao": "20/04/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "07/7/2022",
+      "preco": 4,
+      "id": 6
+    },
+    {
+      "nome": "Bolacha Trakinas",
+      "dataFabricacao": "10/04/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "08/9/2022",
+      "preco": 3,
+      "id": 7
+    },
+    {
+      "nome": "Farinha",
+      "dataFabricacao": "11/01/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "28/07/2022",
+      "preco": 8.5,
+      "id": 8
+    },
+    {
+      "nome": "Agua",
+      "dataFabricacao": "22/02/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "16/07/2022",
+      "preco": 2,
+      "id": 9
+    },
+    {
+      "nome": "Coca Cola",
+      "dataFabricacao": "21/03/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "12/11/2022",
+      "preco": 4.5,
+      "id": 10
+    },
+    {
+      "nome": "Guarana",
+      "dataFabricacao": "11/03/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "01/12/2022",
+      "preco": 4,
+      "id": 11
+    },
+    {
+      "nome": "Molho Especial",
+      "dataFabricacao": "12/03/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "19/06/2022",
+      "preco": 5,
+      "id": 12
+    },
+    {
+      "nome": "Salgadinho",
+      "dataFabricacao": "09/02/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "10/09/2022",
+      "preco": "3.50",
+      "id": 13
+    },
+    {
+      "nome": "Leite",
+      "dataFabricacao": "18/01/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "28/07/2022",
+      "preco": "4.50",
+      "id": 14
+    },
+    {
+      "nome": "Azeite",
+      "dataFabricacao": "21/03/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "26/10/2022",
+      "preco": "3.50",
+      "id": 15
+    },
+    {
+      "nome": "Danoninho",
+      "dataFabricacao": "21/01/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "21/11/2022",
+      "preco": "3.50",
+      "id": 16
+    },
+    {
+      "nome": "Batata",
+      "dataFabricacao": "10/01/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "07/12/2022",
+      "preco": "5.50",
+      "id": 17
+    },
+    {
+      "nome": "Cerveja Lata",
+      "dataFabricacao": "01/05/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "06/11/2022",
+      "preco": "6.00",
+      "id": 18
+    },
+    {
+      "nome": "Miojo",
+      "dataFabricacao": "07/07/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "13/12/2022",
+      "preco": "2.00",
+      "id": 19
+    },
+    {
+      "nome": "Chocolate",
+      "dataFabricacao": "15/02/2022",
+      "prodPerecivel": "true",
+      "dataValidade": "26/11/2022",
+      "preco": "4.00",
+      "id": 20
+    }
+  ],
+  
+  "usuarios": [
+    {
+     "id": 1,
+     "nome": "Rafael",
+     "email": "rafacanedocontato@gmail.com",
+     "senha": 12345
+    },
+    {
+        "id": 2,
+        "nome": "Rafael 2",
+        "email": "rafacanedocontato.sp@gmail.com",
+        "senha": 123456
+    }
+]
+
+}
